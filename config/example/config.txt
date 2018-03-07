@@ -346,4 +346,4 @@ DISABLE_SPACE_RUINS
 #SHUTDOWN_SHELL_COMMAND taskkill /f /im dreamdaemon.exe
 
 ## Uncomment this to disable karma and unlock all karma purchases for players by default
-#DISABLE_KARMA
+DISABLE_KARMA
